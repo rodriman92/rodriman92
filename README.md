@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriman92" alt="rodriman92" /></a> </p>
 
-- 🔭 I’m currently working on [link](https://snkrs-world-rodriman92.vercel.app)**SNKRS World**
+- 🔭 I’m currently working on [SNKRS World](https://snkrs-world-rodriman92.vercel.app)
 
 - 🌱 I’m currently learning **React JS**
 
