@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriman92&label=Profile%20views&color=0e75b6&style=flat" alt="rodriman92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriman92" alt="rodriman92" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+"><img src="https://github-profile-trophy.vercel.app/?username=rodriman92" alt="rodriman92" /></a> </p>
 
 - 🔭 I’m currently working on [SNKRS World](https://snkrs-world-rodriman92.vercel.app)
 
