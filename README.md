@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rodmancilla92@gmail.com**
 
-- Follow me on [Linkedin]("https://www.linkedin.com/in/rod-mancilla/")
+- Follow me on [Linkedin](https://www.linkedin.com/in/rod-mancilla)
 
 
 <h3 align="left">Languages and Tools:</h3>
